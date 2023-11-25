@@ -15,9 +15,3 @@ Hospital Management System using MySQL, Php.
   - Brackets was used as a text editor.
   - Google Chrome Version 77.0.3865.90 was used to run the project (localhost/hospital was used as the url).
   
-
-### Starting Apache And MySQL in XAMPP:
-  The XAMPP Control Panel allows you to manually start and stop Apache and MySQL. To start Apache or MySQL manually, click the ‘Start’ button under ‘Actions’.
-  
-  
-<p align="center"><img src="https://user-images.githubusercontent.com/36665975/59350977-fcc68900-8d3a-11e9-9450-e5c478497caa.png"></img></p>
